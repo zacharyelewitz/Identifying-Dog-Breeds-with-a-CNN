@@ -58,7 +58,7 @@ python-systemd==231
 PyYAML==3.11
 pyzmq==18.1.0
 qtconsole==4.5.5
-requests==2.9.1
+requests==2.20.0
 selenium==3.141.0
 Send2Trash==1.5.0
 six==1.12.0
