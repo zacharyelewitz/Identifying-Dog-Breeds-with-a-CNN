@@ -55,10 +55,10 @@ python-apt==1.1.0b1+ubuntu0.16.4.5
 python-dateutil==2.8.0
 python-debian==0.1.27
 python-systemd==231
-PyYAML==3.11
+pyyaml>=4.2b
 pyzmq==18.1.0
 qtconsole==4.5.5
-requests==2.9.1
+requests>=2.20.0
 selenium==3.141.0
 Send2Trash==1.5.0
 six==1.12.0
