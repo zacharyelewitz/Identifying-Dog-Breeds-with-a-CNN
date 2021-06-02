@@ -70,7 +70,7 @@ tornado==6.0.3
 traitlets==4.3.3
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.25.6
+urllib3==1.26.5
 virtualenv==16.7.7
 wcwidth==0.1.7
 webencodings==0.5.1
